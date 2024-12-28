@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Hello! My name is Park SeungHun. I am from korea university taking electrical engineering.
 <!--
 **fff-2/fff-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
